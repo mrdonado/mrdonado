@@ -8,4 +8,6 @@
 - 🤓 [In LinkedIn](https://www.linkedin.com/in/f-javier-r-donado-6458a815/?locale=en_US)
 - 👨‍💻 [Some of my public projects](https://github.com/mrdonado/my-projects)
 
-I don't always code, but when I do, I prefer TypeScript, Kotlin, and Python 🐍
+I don't always code, but when I do, I prefer TypeScript, Kotlin, and Python 🐍.
+
+More about me [here](https://blog.jdonado.com/about/).

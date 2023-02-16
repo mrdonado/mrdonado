@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="devicon.min.css">
-
 ![Snake animation](https://github.com/mrdonado/mrdonado/blob/output/github-contribution-snake.svg)
 
 - 💻 [My website](https://www.jdonado.com)
@@ -12,6 +10,29 @@
 
 I don't always code, but when I do, I prefer TypeScript, Kotlin, and Python 🐍.
 
-<i class="devicon-typescript-plain colored"></i> <i class="devicon-kotlin-plain colored"></i> <i class="devicon-python-plain colored"></i> <i class="devicon-vim-plain colored"></i> <i class="devicon-react-original colored"></i> <i class="devicon-amazonwebservices-original colored"></i> <i class="devicon-apachekafka-original colored"></i> <i class="devicon-apple-original colored"></i> <i class="devicon-android-plain colored"></i> <i class="devicon-docker-plain colored"></i> <i class="devicon-git-plain colored"></i> <i class="devicon-inkscape-plain colored"></i> <i class="devicon-jamstack-original colored"></i> <i class="devicon-java-plain colored"></i> <i class="devicon-javascript-plain"></i> <i class="devicon-jupyter-plain"></i> <i class="devicon-linux-plain colored"></i> <i class="devicon-mongodb-plain colored"></i> <i class="devicon-nodejs-plain colored"></i> <i class="devicon-photoshop-plain"></i> <i class="devicon-sketch-line"></i> <i class="devicon-slack-plain colored"></i> <i class="devicon-spring-plain-wordmark"></i> <i class="devicon-vscode-plain colored"></i> <i class="devicon-blender-original colored"></i>
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" />
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jamstack/jamstack-original.svg" />
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" />
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" />
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
 
 More about me [here](https://blog.jdonado.com/about/).

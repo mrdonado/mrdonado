@@ -1,6 +1,6 @@
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+  schedule: # execute only on even days
+    - cron: "0 0 2-30/2 * *"
   workflow_dispatch:
 
 jobs:

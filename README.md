@@ -7,16 +7,15 @@
 ----
 
 
-- 💻 [My homepage](https://www.jdonado.com)
-- 🎸 [Some of my music](https://fractalfields.bandcamp.com/album/fractal-fields) (Bandcamp)
+- 💻 [My website (apps, blog...)](https://www.jdonado.com)
+- 🎸 [Some of my music](https://open.spotify.com/artist/60ICs7yKs1yRwW1ZVIJzYV) (Spotify)
 - 📷 [My photos](https://www.instagram.com/jdonadolens/) over the 🌍 (Instagram)
-- 🐣 [In Twitter, as @jdonado](https://twitter.com/jdonado)
+- 🐣 [In X.com / Twitter, as @jdonado](https://x.com/jdonado)
 - 🤓 [In LinkedIn](https://www.linkedin.com/in/f-javier-r-donado)
-- 👨‍💻 [Some of my public projects](https://github.com/mrdonado/my-projects)
 
 I don't always code, but when I do, I prefer TypeScript, Kotlin, and Python 🐍.
 
-More about me [here](https://blog.jdonado.com/about/).
+More about me [here](https://www.jdonado.com/about/).
 
 ----
  

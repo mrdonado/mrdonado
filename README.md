@@ -15,7 +15,7 @@
 
 I don't always code, but when I do, I prefer TypeScript, Kotlin, and Python 🐍.
 
-More about me [here](https://www.jdonado.com/about/).
+You can learn more about me [here](https://www.jdonado.com/about/), and view my [CV here](https://www.jdonado.com/cv/).
 
 ----
  
